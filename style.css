@@ -103,9 +103,9 @@ body {
     border: 1px solid #a8a5a5;
 }
 
-#img-name-section h4 {
+#img-name-section p {
     margin-left: 15px;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     font-weight: 800;
     cursor: pointer;
 }
